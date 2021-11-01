@@ -1,10 +1,3 @@
-# Lorem ipsum dolor sit amet consectetur adipisicing elit. Et dignissimos iusto debitis! Porro placeat velit eligendi voluptas ducimus rem error dolores molestias nisi aut iste, tempora fugiat sunt voluptates debitis.
-    Ducimus vel distinctio excepturi incidunt sed delectus laudantium aspernatur consequatur nobis pariatur molestias aliquam, magnam ipsum saepe dolor ipsa rem! Porro quis reiciendis dolore soluta earum, beatae labore non placeat.
-    Quia, ducimus provident quibusdam, nihil dignissimos distinctio rem quos illo hic magnam laboriosam qui quidem architecto nostrum. Quas beatae, libero ratione dolore consequuntur voluptatem delectus labore optio possimus eius fugiat?
-    Iste est amet molestiae illum eligendi inventore enim accusantium quis, ipsam sed? Soluta impedit maxime sed explicabo modi incidunt iusto sapiente hic. Nostrum at fuga magnam quas voluptatibus, sunt ab.
-    Quidem ipsum earum quis eligendi debitis cumque nostrum numquam in unde illum perspiciatis, et voluptatem vero laboriosam consequatur est! Quod, expedita. Aperiam delectus facere quod ducimus illo laudantium vel reprehenderit.
-    Iusto perspiciatis similique autem dolore illo tempora quia impedit aut dicta voluptas earum amet, animi minima pariatur quo quasi minus aperiam. Accusamus ratione libero excepturi ex, id harum earum quia.
-    Quidem unde eos pariatur, nulla voluptates quia vel non voluptate autem, asperiores, similique consequuntur tempora impedit ut quasi minus? Rerum nihil totam a laborum natus deserunt exercitationem quisquam aliquid maiores.
-    Dolor aperiam consequatur ab amet, qui earum, facere aspernatur aut doloremque minus voluptatum perferendis nihil, nisi necessitatibus perspiciatis eius ullam omnis ipsa enim cum in vel. Quod nesciunt incidunt laborum.
-    Excepturi porro suscipit, facere illo tempora tempore veritatis reprehenderit natus perferendis accusantium corporis quaerat? Dolorum expedita dolorem saepe corporis, maxime pariatur ad enim illum, quis eaque cupiditate dolore facilis quisquam.
-    Ducimus quo eveniet sapiente, dignissimos repudiandae quas earum possimus, similique cumque, dolorem maxime. Voluptatem, animi quibusdam porro eligendi reprehenderit quaerat fugit fuga. Mollitia ullam, assumenda quasi dignissimos architecto itaque perspiciatis?
+# Get Started
+- Get correct packages & your favourite :heart: extensions installed 
+- And your ready to go :wink:
